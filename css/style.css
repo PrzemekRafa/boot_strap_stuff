@@ -1,0 +1,13 @@
+.container .row .col-lg-6 {
+    height: 400px;
+    background-color: cornflowerblue;
+}
+
+.container .row .col-lg-6:last-child {
+    background-color: crimson;
+}
+
+/*
+.item img {
+    width: 100%;
+}*/
